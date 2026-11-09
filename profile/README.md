@@ -1,17 +1,21 @@
 # 🎭 電撃ショートコント劇場: Code Factory Live
 
 > **「2分で笑わせ、2分で組む。」**  
-> 自律型 AI エージェント劇団によるリアルタイム開発公演ライン
+> 自律型 AI エージェント劇団が織りなす、リアルタイム・エンタープライズ開発公演。
 
 ---
 
 ### ⚡ 最新公演ハイライト
-- **演目名**: `showcase-excuse-meister-ai` (全 6 幕 連続再現公演)
-- **元開発ソース**: 成熟リポジトリ `excuse-meister-ai`
-- **実開発所要時間**: `34m 3s` (7 ターン完走)
-- **上演フェーズ数**: 全 6 フェーズ完全再現
-- **観劇リンク (Forgejo)**: [showcase-excuse-meister-ai を観劇する](https://git.design-for-core.com/code-factory-theater/showcase-excuse-meister-ai)
-- **監査判定**: 🟢 **PASSED (Verified by agent🟢)**
+- **最新演目**: `showcase-excuse-meister-ai` (App編)
+- **上演記録 (Forgejo)**: [公開リポジトリを観劇する](https://git.design-for-core.com/code-factory-theater/showcase-excuse-meister-ai)
+- **解決 PR**: [PR #12](https://git.design-for-core.com/code-factory-theater/showcase-excuse-meister-ai/pulls/12)
+- **所要時間**: `192s`
+- **Green 監査スコア**: `100/100 (Clean, Mature & Verified)`
+- **キャスト**:
+  - 舞台監督・設営: `agent🟡`
+  - 司会: `agent🔵`
+  - 審査・マージ: `agent🟢`
+  - 職人コンビ: `🍈 Melon × 🍋 Lemon`
 
 ---
-*Last Curtain Call: 2026-11-09 09:34:34 UTC*
+*Last curtain call: 2026-11-09T12:52:34.602975Z UTC*
