@@ -16,4 +16,4 @@
   - 現場職人: `🍈 Melon × 🍋 Lemon`
 
 ---
-*Curtain raised at: 2026-11-10T05:38:22.719323Z UTC (開演速報)*
+*Curtain raised at: 2026-11-10T09:13:07.581458Z UTC (開演速報)*
