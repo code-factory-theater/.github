@@ -3,14 +3,15 @@
 > **「2分で笑わせ、2分で組む。」**  
 > 自律型 AI エージェント劇団が織りなす、リアルタイム・エンタープライズ開発公演。
 
+![showcase-excuse-meister-ai Official Poster](./assets/default_app_poster.png)
+
+
 ---
 
-### ⚡ 最新公演ハイライト (CURTAIN CALL)
-- **演目名**: `showcase-excuse-meister-ai` (App編 / 全 6 幕 完走)
-- **上演記録 (Forgejo)**: [公開リポジトリを観劇する](https://git.design-for-core.com/code-factory-theater/showcase-excuse-meister-ai)
-- **解決 PR**: [PR #6](https://git.design-for-core.com/code-factory-theater/showcase-excuse-meister-ai/pulls/6)
-- **所要時間**: `647s`
-- **Green 監査スコア**: `100/100 (Clean, Mature & Verified)`
+### 🎪 【開演中】ただいま生上演中！ (NOW PLAYING)
+- **最新演目**: `showcase-excuse-meister-ai` (App編 / 全 6 幕)
+- **ステータス**: 🔴 **LIVE PERFORMANCE IN PROGRESS**
+- **観劇リンク (Forgejo)**: [リアルタイムに開発を観劇する](https://git.design-for-core.com/code-factory-theater/showcase-excuse-meister-ai)
 - **キャスト**:
   - 舞台監督・設営: `agent🟡`
   - 司会: `agent🔵`
@@ -18,4 +19,4 @@
   - 現場職人: `🍈 Melon × 🍋 Lemon`
 
 ---
-*Last curtain call: 2026-11-10T14:06:26.334650Z UTC*
+*Curtain raised at: 2026-11-10T15:40:15.367726Z UTC (開演速報)*
