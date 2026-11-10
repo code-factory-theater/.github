@@ -5,17 +5,15 @@
 
 ---
 
-### ⚡ 最新公演ハイライト (CURTAIN CALL)
-- **演目名**: `showcase-excuse-meister-ai` (App編 / 全 6 幕 完走)
-- **上演記録 (Forgejo)**: [公開リポジトリを観劇する](https://git.design-for-core.com/code-factory-theater/showcase-excuse-meister-ai)
-- **解決 PR**: [PR #6](https://git.design-for-core.com/code-factory-theater/showcase-excuse-meister-ai/pulls/6)
-- **所要時間**: `636s`
-- **Green 監査スコア**: `100/100 (Clean, Mature & Verified)`
+### 🎪 【開演中】ただいま生上演中！ (NOW PLAYING)
+- **最新演目**: `showcase-fargate-event-forge` (Infra編 / 全 6 幕)
+- **ステータス**: 🔴 **LIVE PERFORMANCE IN PROGRESS**
+- **観劇リンク (Forgejo)**: [リアルタイムに開発を観劇する](https://git.design-for-core.com/code-factory-theater/showcase-fargate-event-forge)
 - **キャスト**:
   - 舞台監督・設営: `agent🟡`
   - 司会: `agent🔵`
   - 審査・マージ: `agent🟢`
-  - 現場職人: `🍈 Melon × 🍋 Lemon`
+  - 現場職人: `🍇 Grape × 🍊 Orange`
 
 ---
-*Last curtain call: 2026-11-10T11:39:16.195773Z UTC*
+*Curtain raised at: 2026-11-10T12:42:07.499107Z UTC (開演速報)*
