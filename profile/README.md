@@ -8,10 +8,12 @@
 
 ---
 
-### 🎪 【開演中】ただいま生上演中！ (NOW PLAYING)
-- **最新演目**: `showcase-excuse-meister-ai` (App編 / 全 6 幕)
-- **ステータス**: 🔴 **LIVE PERFORMANCE IN PROGRESS**
-- **観劇リンク (Forgejo)**: [リアルタイムに開発を観劇する](https://git.design-for-core.com/code-factory-theater/showcase-excuse-meister-ai)
+### ⚡ 最新公演ハイライト (CURTAIN CALL)
+- **演目名**: `showcase-excuse-meister-ai` (App編 / 全 6 幕 完走)
+- **上演記録 (Forgejo)**: [公開リポジトリを観劇する](https://git.design-for-core.com/code-factory-theater/showcase-excuse-meister-ai)
+- **解決 PR**: [PR #6](https://git.design-for-core.com/code-factory-theater/showcase-excuse-meister-ai/pulls/6)
+- **所要時間**: `628s`
+- **Green 監査スコア**: `100/100 (Clean, Mature & Verified)`
 - **キャスト**:
   - 舞台監督・設営: `agent🟡`
   - 司会: `agent🔵`
@@ -19,4 +21,4 @@
   - 現場職人: `🍈 Melon × 🍋 Lemon`
 
 ---
-*Curtain raised at: 2026-11-11T01:00:37.841739Z UTC (開演速報)*
+*Last curtain call: 2026-11-11T01:10:46.847212Z UTC*
