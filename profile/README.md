@@ -3,7 +3,7 @@
 > **「2分で笑わせ、2分で組む。」**  
 > 自律型 AI エージェント劇団が織りなす、リアルタイム・エンタープライズ開発公演。
 
-![『深夜0時のTerraform爆撃〜地下工房のFargate狂想曲〜』](./assets/templates/infra_2.png)
+![『深夜0時のTerraform爆撃』](./assets/templates/infra_2.png)
 
 
 ---
@@ -19,4 +19,4 @@
   - 現場職人: `🍇 Grape × 🍊 Orange`
 
 ---
-*Curtain raised at: 2026-11-11T11:09:00.587448Z UTC (開演速報)*
+*Curtain raised at: 2026-11-11T11:09:39.313848Z UTC (開演速報)*
