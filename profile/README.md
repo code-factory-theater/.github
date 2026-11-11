@@ -3,7 +3,7 @@
 > **「2分で笑わせ、2分で組む。」**  
 > 自律型 AI エージェント劇団が織りなす、リアルタイム・エンタープライズ開発公演。
 
-![『言い訳マイスターAIの夜想曲』](./assets/default_app_poster.png)
+![『言い訳マイスターAI』全6幕の爆速狂想曲](./assets/default_poster.png)
 
 
 ---
@@ -19,4 +19,4 @@
   - 現場職人: `🍈 Melon × 🍋 Lemon`
 
 ---
-*Curtain raised at: 2026-11-11T09:37:34.312640Z UTC (開演速報)*
+*Curtain raised at: 2026-11-11T10:38:15.007879Z UTC (開演速報)*
