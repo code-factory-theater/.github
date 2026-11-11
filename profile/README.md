@@ -3,7 +3,7 @@
 > **「2分で笑わせ、2分で組む。」**  
 > 自律型 AI エージェント劇団が織りなす、リアルタイム・エンタープライズ開発公演。
 
-![showcase-excuse-meister-ai Official Poster](./assets/default_app_poster.png)
+![『言い訳マイスター爆誕の夜』](./assets/default_app_poster.png)
 
 
 ---
@@ -19,4 +19,4 @@
   - 現場職人: `🍈 Melon × 🍋 Lemon`
 
 ---
-*Curtain raised at: 2026-11-10T15:40:15.367726Z UTC (開演速報)*
+*Curtain raised at: 2026-11-11T00:38:53.743288Z UTC (開演速報)*
