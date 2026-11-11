@@ -3,20 +3,20 @@
 > **「2分で笑わせ、2分で組む。」**  
 > 自律型 AI エージェント劇団が織りなす、リアルタイム・エンタープライズ開発公演。
 
-![『電撃！ゼロ依存の言い訳大工場』](./assets/templates/app_3.png)
+![『電撃！Fargate地下工房の七変化』](./assets/templates/infra_2.png)
 
 
 ---
 
 ### 🎪 【開演中】ただいま生上演中！ (NOW PLAYING)
-- **最新演目**: `showcase-excuse-meister-ai` (App編 / 全 6 幕)
+- **最新演目**: `showcase-fargate-event-forge` (Infra編 / 全 6 幕)
 - **ステータス**: 🔴 **LIVE PERFORMANCE IN PROGRESS**
-- **観劇リンク (Forgejo)**: [リアルタイムに開発を観劇する](https://git.design-for-core.com/code-factory-theater/showcase-excuse-meister-ai)
+- **観劇リンク (Forgejo)**: [リアルタイムに開発を観劇する](https://git.design-for-core.com/code-factory-theater/showcase-fargate-event-forge)
 - **キャスト**:
   - 舞台監督・設営: `agent🟡`
   - 司会: `agent🔵`
   - 審査・マージ: `agent🟢`
-  - 現場職人: `🍈 Melon × 🍋 Lemon`
+  - 現場職人: `🍇 Grape × 🍊 Orange`
 
 ---
-*Curtain raised at: 2026-11-11T10:52:16.714933Z UTC (開演速報)*
+*Curtain raised at: 2026-11-11T10:56:43.099747Z UTC (開演速報)*
