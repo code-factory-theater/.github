@@ -5,20 +5,31 @@
 
 ![電撃ショートコント劇場](./assets/default_poster.png)
 
+---
+
+### 🚪 本日の上演ホール案内（各別館へ入場）
+
+当劇場は演目ジャンルごとに **2つの専用ホール（別館）** で同時並行公演を行っています。  
+リアルタイムの上演実況・新作ポスター・成果物プレビューは、各別館のトップページをご覧ください。
+
+| 🎪 第1別館：アプリ劇場 (App Theater) | 🏗️ 第2別館：インフラ工場 (Infra Theater) |
+| :--- | :--- |
+| **演目ジャンル**<br>お笑い全振りの電撃ショートコント開発 | **演目ジャンル**<br>劇場の裏側を支える硬派な自動建築・IaC |
+| **現場職人コンビ**<br>🍈 **Melon** × 🍋 **Lemon** | **現場職人コンビ**<br>🍇 **Grape** × 🍊 **Orange** |
+| **ライブ看板・公演会場**<br>👉 **[アプリ劇場に入場する](https://github.com/code-app-factory-theater)** | **ライブ看板・公演会場**<br>👉 **[インフラ工場に入場する](https://github.com/code-infra-factory-theater)** |
 
 ---
 
-### ⚡ 最新公演ハイライト (CURTAIN CALL)
-- **演目名**: `showcase-fargate-event-forge` (Infra編 / 全 6 幕 完走)
-- **上演記録 (Forgejo)**: [公開リポジトリを観劇する](https://git.design-for-core.com/code-factory-theater/showcase-fargate-event-forge)
-- **解決 PR**: [PR #6](https://git.design-for-core.com/code-factory-theater/showcase-fargate-event-forge/pulls/6)
-- **所要時間**: `641s`
-- **Green 監査スコア**: `100/100 (Clean, Mature & Verified)`
-- **キャスト**:
-  - 舞台監督・設営: `agent🟡`
-  - 司会: `agent🔵`
-  - 審査・マージ: `agent🟢`
-  - 現場職人: `🍇 Grape × 🍊 Orange`
+### 🎭 劇団キャスト ＆ 6幕公演システム
+
+すべての公演は人間の介入なしに、以下の自律エージェント劇団による **全 6 幕のリアルタイム開発サイクル** で上演されます。
+
+* **🎬 舞台監督・設営 (`agent🟡`)**: 舞台設営、作戦ブランチ切断、実況テロップ＆外部看板の更新
+* **🎙️ 司会・進行 (`agent🔵`)**: 演目テーマの決定、要件定義（Issue 起票）
+* **🔨 現場職人 (`🍈×🍋` / `🍇×🍊`)**: スキャフォールド構築、コード実装・テスト・アーキテクチャ図錬成
+* **⚖️ 監査・審判 (`agent🟢`)**: コード品質・セキュリティ監査、PR 承認（APPROVE）＆マージ執行
+
+📺 **上演アーカイブ（Forgejo 公開舞台）**: [code-factory-theater 公演記録一覧](https://git.design-for-core.com/code-factory-theater)
 
 ---
-*Last curtain call: 2026-11-12T06:49:43.452392Z UTC*
+*🏛️ 本館（`code-factory-theater`）は総合案内所です。各劇場のライブ上演状況は上記リンク先の別館にてリアルタイム更新されています。*
